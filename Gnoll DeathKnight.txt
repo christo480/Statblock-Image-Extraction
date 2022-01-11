@@ -1,0 +1,50 @@
+ 
+
+GNOLL DEATHKNIGHT
+Medium humanoid (qnolll, choot evi
+
+ 
+
+Armor Class 17 (half piste)
+Hit Points 120 (16d8 + 48)
+Speed 36 ft.
+
+ 
+
+STR DEX CON Int wis CHA
+Wirs) 1S (+2) 1G K*3) O40} 14040) 94 (42)
+
+ 
+
+Saving Throws Str +7, Con +6, Chia +5.
+
+Skills Intimidation +5
+
+Senses darkvision 60 ft., passive Perception 10
+Languages Gnoll
+
+Challange 6 (2.300 x?)
+
+ 
+
+Rampage. When the gnoll reduces a creature to O hit points with
+a melee attack on its turn, the gnoll can take abonusactionto
+move up to half its speed and make a bite attack.
+
+Auro of Motice. All enemies within 10 feet of the gno have
+disadvantage on saving throws.
+
+ACTIONS
+
+Multiottack. The gnoll makes three attacks: one with its bite and
+two with its greatsword,
+
+Bite. Melee Weopon Attack: +7 to hit, reach 5 ft, one creature. Hite7
+(1d6.+'4) piercing damage. and the target must succeed on a DC
+14 Constitution saving throw or take 14 (405) necrotic damage, |
+
+Greatsword. Melee Weapon Attack: +7 to hit, reach 5 ft, one target.
+Hit: 11 (206 + 4) stashing damage.
+ee hl
+
+ 

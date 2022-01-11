@@ -1,0 +1,99 @@
+ 
+
+Cupp
+Medium celestial, Neutral Good
+
+ 
+
+Armor Class 16 (19 with mage armor)
+Hit Points 71 (1108 + 22)
+Speed 30 ft, fly 69 ft.
+
+ 
+
+STR DEX
+8(-1)  22(+6)
+
+CON INT
+14(+2) 17(43)
+
+wis
+24 (+7)
+
+CHA
+30 (+10)
+
+Saving Throws Dex +11, Cha +15
+
+Skills Intimidation +20, Performance +15, Persuasion +20
+
+Damage Immunities biudgeoning, piercing, and slashing from
+nonmagical attacks
+
+Condition Immunities blinded, charmed, deafened,
+frightened, paralyzed, petrified, poisoned
+
+Senses truesight 30 ft, passive Perception 17
+
+Languages All
+
+Challlenge 15 (13,000 xP)
+
+Angelic Weapons. Cupid's weapon attacks are magical. When
+the Cupid hits with any weapon, the weapon deals an extra 18
+(4d) radiant damage (included in the attack).
+
+Innate Spelicasting. The Cupid's innate spellcasting ability is
+Charisma (spell save DC 23, +15 to hit with spell attacks). It can
+innately cast the following spells, requiring no material
+components:
+
+‘At will: Charm Person, Protection from Evil and Good,
+Sanctuary
+
+3/day each:
+
+‘/day each: Geas
+
+  
+
+Shroud, Tounges, Hypnotic Pattern
+
+Heart Break. Cupid may choose to make any hit attack against,
+a charmed creature a critical hit. The creature becomes
+frightened with the source of fear being Cupid and any
+creatures charmed by Cupid.
+
+Incite Relationship. As a bonus action Cupid may target any
+number of charmed creatures. These creatures gain a +2
+bonus to AC and a +2 bonus to attacks against creatures any
+creature that has dealt damage to one of the charmed
+creatures while within 60 ft of each other while at least one of
+them is charmed. The effect ends early if any of the charmed
+creatures deal damage to each other.
+
+ACTIONS
+
+ 
+
+Multiattack. Cupid makes three Shortbow attacks.
+
+Shortbow. Ranged Weopon Attack: +11 to hit, range 80/320 ft,
+one target. Hit: 9 (106 + 6) piercing damage. On a successful
+hit, the target creature must make a DC 23. On a failed save,
+the creature is charmed for 24 hours.
+
+LEGENDARY ACTIONS
+
+ 
+
+‘The monster can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+ata time and only at the end of another creature's turn. The
+monster regains spent legendary actions at the start of its
+turn,
+
+ 
+
+Shortbow. Ranged Weapon Attack: +11 to hit, range 80/320 ft,
+one target. Hit: 9 (106 + 6) piercing damage.
