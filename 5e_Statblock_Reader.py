@@ -1,6 +1,7 @@
 import glob,os
 from PIL import Image
 from pytesseract import pytesseract
+import Statblock
 # Defining paths to tesseract.exe
 # and the image we would be using
 
@@ -36,8 +37,8 @@ def save_to_file(name, text): # Saves statblock raw data to file
 
 def main():
 
-    print("How many images. (Input -1 for all)")
-    img_num= input()
+    """ print("How many images. (Input -1 for all)")
+    img_num= int(input())
     while(img_num<-1):
         print("Invalid Number (Input -1 for all)")
         file_name = input()
@@ -71,7 +72,21 @@ def main():
             lines  = list(filter(("\n").__ne__, lines )) # Remove all blank lines
             statlist = [lines[0], lines[1], lines[2]]
             print(statlist)
-    
+     """
+    print("Input filename")
+    file_name = input()  
+    #if(os.path.exists(file_name)==False): #Force resubmission until filename is valid
+    while(os.path.exists(file_name)==False):
+        print("Invalid Filename/ File does not exist")
+        file_name = input()
+
+    save_to_file( file_name, parseImg())
+    a_file = open(file_name+".txt")
+
+    lines = a_file.readlines()
+    lines  = list(filter(("\n").__ne__, lines )) # Remove all blank lines
+    statlist = [lines[0], lines[1], lines[2]]
+    print(statlist)
 
 
 if __name__ == "__main__":
